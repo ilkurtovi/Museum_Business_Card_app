@@ -113,12 +113,12 @@
                 android:layout_marginTop="10dp"
                 android:fontFamily="sans-serif-condensed"
                 android:padding="7dp"
-                android:text="Welcome to the Museum of imagination. Think of anyything you wish and find it here in your thoughts."
+                android:gravity="center"
+                android:text="Welcome to the Museum of imagination. Think of anything you wish and find it right here in your thoughts."
                 android:textColor="#1a160d"
                 android:textSize="18dp" />
 
         </LinearLayout>
-
 
     </LinearLayout>
 
